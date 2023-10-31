@@ -24,5 +24,4 @@ package com.example.challengeempat.api
         return retrofit.create(ApiRestaurant::class.java)
     }
 
-
 }*/
